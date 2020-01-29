@@ -1,3 +1,3 @@
-# Platzi Scripts
+# Cayo Scripts
 
 Dummy tests are in `jenkins-tests`
